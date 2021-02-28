@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://stoic-bartik-b84a0e.netlify.app"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
